@@ -58,15 +58,19 @@ Here are some examples.
   an [R](http://www.r-project.org) package for creating LaTeX and html tables
 - [pandoc](http://johnmacfarlane.net/pandoc/), for converting
   among markup formats, including markdown to PDF
+- [pander](http://rapporter.github.io/pander/), an R package with
+  helper functions for creating pandoc's markdown format
 - [Reproducible Research with R and RStudio](http://www.amazon.com/exec/obidos/ASIN/1466572841/7210-20)
   (book)
+- [polymode](https://github.com/vitoshka/polymode), an emacs mode that
+  handles R Markdown nicely
 
 ### Karl's examples
 
 - [Directory of examples](https://github.com/kbroman/knitr_knutshell/tree/gh-pages/assets)
 - [R Markdown example](../assets/knitr_example.Rmd), and
   [its html product](../assets/knitr_example.html)
-- [AsciiDoc example](../assets/knitr_example.asciidoc), and
+- [AsciiDoc example](../assets/knitr_example.Rasciidoc), and
   [Its html product](../assets/knitr_example_asciidoc.html)
 - [LaTeX example](../assets/knitr_example.Rnw), and
   [its pdf product](../assets/knitr_example.pdf)

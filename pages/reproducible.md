@@ -15,7 +15,7 @@ them to be able to run it and get the same output.
 1. Avoid absolute paths. I mean, don't ever use something like
    `/Users/kbroman/Data/blah.csv` or even `~/Data/blah.csv`. When
    someone else tries to reproduce things, they won't have a
-   `/Users/kbroman` directory, and they make not want to put the data
+   `/Users/kbroman` directory, and they may not want to put the data
    in `~/Data`.
 
 2. Keep all of the data and code within one branch of your file system:
@@ -100,4 +100,5 @@ is a really beautiful document, but it says (on page 2):
 > ...all details are visible in the source code (`feversupp.Rnw`), which
 > is available upon request from \[author's email\].
 
-And the author didn't respond to my email requesting the source.
+It'd be better to have it on [GitHub](http://github.com),
+[Figshare](http://figshare.com), or even a personal web page. 
